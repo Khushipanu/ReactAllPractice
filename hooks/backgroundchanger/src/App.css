@@ -1,0 +1,11 @@
+form{
+  width:320px;
+  margin:auto;
+  margin-top:111px;
+
+}
+form input{
+  width:90%;
+  font-size:22px;
+  padding:3px;
+}
