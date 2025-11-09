@@ -4,7 +4,7 @@ import ChildC from './ChildC'
 const ChildB = () => {
   return (
     <div>
-      <ChildC/>
+      <h1>data: {user.name}</h1>
     </div>
   )
 }

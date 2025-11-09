@@ -1,0 +1,11 @@
+.quotes {
+  display: flex;
+  gap: 10px;
+}
+
+.quote-card {
+  padding: 10px;
+  border: 1px solid #ccc;
+  background: #f7f7f7;
+  border-radius: 8px;
+}

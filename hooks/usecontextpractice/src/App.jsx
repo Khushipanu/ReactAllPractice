@@ -13,7 +13,8 @@ const App = () => {
   return (
     <> 
     <UserContext.Provider value={user}>
-        <ChildA />
+        
+        <ChildA/>
     </UserContext.Provider>
     </>
    

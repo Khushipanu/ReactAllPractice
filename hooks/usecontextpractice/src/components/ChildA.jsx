@@ -1,10 +1,10 @@
 import React from 'react'
-import ChildB from './ChildB'
+import ChildC from './ChildC'
 
 const ChildA = () => {
   return (
     <div>
-      <ChildB/>
+      <ChildC/>
     </div>
   )
 }
